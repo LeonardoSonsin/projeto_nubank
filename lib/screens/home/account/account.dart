@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/src/simple/get_state.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
-import '../../controllers/controller_home_page.dart';
+import '../../../controllers/controller_home_page.dart';
 
 class AccountNubank extends StatefulWidget {
   const AccountNubank({Key? key}) : super(key: key);

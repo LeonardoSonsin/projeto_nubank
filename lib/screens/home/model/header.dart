@@ -91,7 +91,7 @@ class _HeaderState extends State<Header> {
     return Container(
       margin: const EdgeInsets.only(left: 20, bottom: 20),
       child: const Text(
-        'Olá, Dev Outlier',
+        'Olá, Dev',
         style: TextStyle(
             color: Colors.white, fontSize: 20, fontWeight: FontWeight.bold),
       ),
